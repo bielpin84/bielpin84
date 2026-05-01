@@ -76,7 +76,7 @@ Busco oportunidades como:
 ## 📫 Contato
 
 - GitHub: https://github.com/bielpin84  
-- LinkedIn: *em construção*
+- LinkedIn: www.linkedin.com/in/gabriel-guerra-tech
 
 ---
 
@@ -129,7 +129,7 @@ Looking for opportunities such as:
 ## 📫 Contact
 
 - GitHub: https://github.com/bielpin84  
-- LinkedIn: *under construction*
+- LinkedIn: www.linkedin.com/in/gabriel-guerra-tech
 
 ---
 

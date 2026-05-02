@@ -11,6 +11,12 @@
 
 ---
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielpin84&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 # 🇧🇷 Português
 
 ## 🚀 Sobre Mim

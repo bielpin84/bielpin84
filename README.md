@@ -56,14 +56,17 @@ Busco constantemente aprimorar minhas habilidades técnicas por meio da constru�
 
 ### 🎮 **Glitch Run**
 Jogo de plataforma 2D desenvolvido em Unity utilizando C#. O projeto envolveu planejamento, documentação técnica (Game Design Document), integração em equipe, organização de assets e gerenciamento do repositório com Git e GitHub.
+
 🔗 https://github.com/bielpin84/Glitch-Run
 
 ### 🎓 **Trabalhos_da_faculdade**  
 Repositório que reúne projetos desenvolvidos durante a graduação em Ciência da Computação, abrangendo programação, banco de dados, engenharia de software e outras disciplinas.
+
 🔗 https://github.com/bielpin84/Trabalhos_da_faculdade
 
 ### 🐍 **Praticando-Python**  
 Coleção de exercícios, algoritmos e pequenos projetos desenvolvidos para praticar e aprofundar conhecimentos na linguagem Python.
+
 🔗 https://github.com/bielpin84/Praticando-Python
 
 ---
